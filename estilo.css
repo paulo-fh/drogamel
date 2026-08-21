@@ -3,6 +3,12 @@ body{
     font: normal 12pt Arial;
 }
 
+main{
+    background-color: blue;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+}
 
 header{
     color: white;
@@ -16,7 +22,7 @@ input{
 
 section{
     background: white;
-    width: 550px;
+    width: 450px;
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.575);
